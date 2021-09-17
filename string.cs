@@ -2,9 +2,9 @@ using System;
 
 namespace c_sharp_practice
 {
-    class StringPractice
+    class StringPractice : PracticeBase
     {
-        public static void runResult()
+        public override void runResult()
         {
             string name = "foofoofoo";
             Console.WriteLine(name.Contains("foo"));

@@ -15,9 +15,9 @@ using System;
 
 namespace c_sharp_practice
 {
-    class BasicPractice
+    class BasicPractice : PracticeBase
     {
-        public static void runResult()
+        public override void runResult()
         {
             Console.Write("Your First Name: ");
             String firstname = Console.ReadLine();

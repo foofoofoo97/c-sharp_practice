@@ -2,9 +2,9 @@ using System;
 
 namespace c_sharp_practice
 {
-    class NumberPractice
+    class NumberPractice : PracticeBase
     {
-        public static void runResult()
+        public override void runResult()
         {
             Console.WriteLine("get integer back " + 1 / 2);
             Console.WriteLine("get decimal back " + 1.0 / 2);
