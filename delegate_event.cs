@@ -25,7 +25,7 @@ namespace c_sharp_practice
     public interface Event
     {
         event EventHandler<int[]> eventTriggered;
-        int No { set; get; }
+        int No { set; }
     }
 
     public class EventTrigger : Event
@@ -44,16 +44,11 @@ namespace c_sharp_practice
         {
             set
             {
-                No = value;
-                if (No > max)
+                var no = value;
+                if (no > max)
                 {
                     eventTriggered(this, new int[] { value });
                 }
-            }
-
-            get
-            {
-                return No;
             }
         }
 
