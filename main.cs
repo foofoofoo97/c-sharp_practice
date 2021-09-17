@@ -31,6 +31,8 @@ namespace c_sharp_practice
             Console.WriteLine("8 => Practice 7: Static");
             Console.WriteLine("9 => Practice 8: Basic Calculator");
             Console.WriteLine("10 => Practice 9: Loop");
+            Console.WriteLine("11 => Practice 10: Multi-D Array");
+            Console.WriteLine("12 => Practice 11: Try-Catch-Throw");
 
 
             int runTest = int.Parse(Console.ReadLine());
@@ -67,7 +69,12 @@ namespace c_sharp_practice
                 case 10:
                     practiceClass = new LoopPractice();
                     break;
-
+                case 11:
+                    practiceClass = new MultiDimensionalArrayPractice();
+                    break;
+                case 12:
+                    practiceClass = new TryCatchPractice();
+                    break;
                 default:
                     practiceClass = new BasicPractice();
                     break;
