@@ -1,0 +1,16 @@
+C:\Users\foofoofoo\Desktop\c-sharp_practice\bin\Debug\net5.0\c-sharp_practice.exe
+C:\Users\foofoofoo\Desktop\c-sharp_practice\bin\Debug\net5.0\c-sharp_practice.deps.json
+C:\Users\foofoofoo\Desktop\c-sharp_practice\bin\Debug\net5.0\c-sharp_practice.runtimeconfig.json
+C:\Users\foofoofoo\Desktop\c-sharp_practice\bin\Debug\net5.0\c-sharp_practice.runtimeconfig.dev.json
+C:\Users\foofoofoo\Desktop\c-sharp_practice\bin\Debug\net5.0\c-sharp_practice.dll
+C:\Users\foofoofoo\Desktop\c-sharp_practice\bin\Debug\net5.0\ref\c-sharp_practice.dll
+C:\Users\foofoofoo\Desktop\c-sharp_practice\bin\Debug\net5.0\c-sharp_practice.pdb
+C:\Users\foofoofoo\Desktop\c-sharp_practice\obj\Debug\net5.0\c-sharp_practice.csproj.AssemblyReference.cache
+C:\Users\foofoofoo\Desktop\c-sharp_practice\obj\Debug\net5.0\c-sharp_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foofoofoo\Desktop\c-sharp_practice\obj\Debug\net5.0\c-sharp_practice.AssemblyInfoInputs.cache
+C:\Users\foofoofoo\Desktop\c-sharp_practice\obj\Debug\net5.0\c-sharp_practice.AssemblyInfo.cs
+C:\Users\foofoofoo\Desktop\c-sharp_practice\obj\Debug\net5.0\c-sharp_practice.csproj.CoreCompileInputs.cache
+C:\Users\foofoofoo\Desktop\c-sharp_practice\obj\Debug\net5.0\c-sharp_practice.dll
+C:\Users\foofoofoo\Desktop\c-sharp_practice\obj\Debug\net5.0\ref\c-sharp_practice.dll
+C:\Users\foofoofoo\Desktop\c-sharp_practice\obj\Debug\net5.0\c-sharp_practice.pdb
+C:\Users\foofoofoo\Desktop\c-sharp_practice\obj\Debug\net5.0\c-sharp_practice.genruntimeconfig.cache
